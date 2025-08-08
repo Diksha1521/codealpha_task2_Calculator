@@ -1,0 +1,42 @@
+.container{
+  
+  background-color: black;
+   max-width: fit-content;
+    
+    text-align: center;
+    margin-left:40%;
+   
+}
+
+
+.button1{
+    color:rgb(194, 188, 188);
+    background-color:rgb(67, 65, 65) ;
+    font-size: large;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 5px;
+    size: 20px;
+    border: 2px solid black;
+    width: 66px; 
+    
+    
+}
+.heading{
+    text-align: center;
+}
+.box{
+    color: black;
+}
+.input{
+    padding: 30px 60px ;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size:15px;
+    margin-top:5px;
+    
+}
+#clr{
+    background-color: rgb(255, 196, 0);
+    color: white;
+}
